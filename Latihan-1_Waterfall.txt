@@ -1,0 +1,3 @@
+**Metode Waterfall**
+  Merupakan pendekatan SDLC paling awal yang digunakan untuk pengembangan perangkat lunak. Urutan dalam Metode Waterfall bersifat serial yang dimulai dari proses perencanaan,  
+  analisa, desain, dan implementasi pada sistem.
