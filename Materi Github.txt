@@ -4,7 +4,7 @@ dan bisa dikelola menggunakan VCS yang  dimiliki github tanpa install GIT.
 
 Istilah dalam Git :
 1.Repo: folder project
-2.Commit: rekaman/ snapshot dari repo
+2.Commit: snapshot yang disimpan di repository
 3.Hash: penanda unik pada sebuah commit
 4.Checkout: berpindah ke sebuah commit
 5.Branch: cabang bebas dari sebuah commit
@@ -13,3 +13,4 @@ Istilah dalam Git :
 8.Clone: mengambil repo dari remote
 9.Push: mengirim commit ke repo
 10.Pull: mengambil commit dari repo
+11.Main/Master : nama branch default yang diberikan git pada waktu kita membuat repository. Branch master ini tidak istimewa. Dia bisa dihapus dan direname sesuka hati.
