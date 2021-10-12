@@ -3,7 +3,7 @@ Sebuah website yang bisa kita kunjungi, registrasi, membuat akun, upload file
 dan bisa dikelola menggunakan VCS yang  dimiliki github tanpa install GIT.
 
 Istilah dalam Git :
-1.Repo: folder project
+1.Repo: folder project atau database yang menyimpan history/ riwayat perubahan
 2.Commit: snapshot yang disimpan di repository
 3.Hash: penanda unik pada sebuah commit
 4.Checkout: berpindah ke sebuah commit
