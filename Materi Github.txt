@@ -1,0 +1,3 @@
+Pengertian Github
+Sebuah website yang bisa kita kunjungi, registrasi, membuat akun, upload file 
+dan bisa dikelola menggunakan VCS yang  dimiliki github tanpa install GIT.
