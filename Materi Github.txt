@@ -1,3 +1,15 @@
 Pengertian Github
 Sebuah website yang bisa kita kunjungi, registrasi, membuat akun, upload file 
 dan bisa dikelola menggunakan VCS yang  dimiliki github tanpa install GIT.
+
+Istilah dalam Git :
+1.Repo: folder project
+2.Commit: rekaman/ snapshot dari repo
+3.Hash: penanda unik pada sebuah commit
+4.Checkout: berpindah ke sebuah commit
+5.Branch: cabang bebas dari sebuah commit
+6.Merge: menggabungkan branch
+7.Remote: sumber yang memiliki repo
+8.Clone: mengambil repo dari remote
+9.Push: mengirim commit ke repo
+10.Pull: mengambil commit dari repo
